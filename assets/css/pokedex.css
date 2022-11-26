@@ -1,3 +1,6 @@
+/* Aqui é a parte do código que tem os pokemons */
+/* o media sreen estãao lá embaixo por motivos de organização */
+
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
