@@ -109,11 +109,40 @@
     border-radius: 1rem;
     filter: brightness(1.1);
     text-align: center;
+    text-transform: capitalize;
 }
 
 .pokemon .detail img {
     max-width: 100%;
     height: 70px;
+}
+.abilitys .titulo {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(102, 102, 102);
+    color:#fff;
+    padding: .250rem 0;
+    margin: 1rem 0;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+    border-radius: 1rem;
+}
+
+.abilitys .ability {
+    display: flex;
+    flex-direction: column;
+    background-color: #ababab;
+    color: #fff;
+    border-radius: .625rem;
+    padding: .625rem 0;
+    margin: .25rem;
+    text-align: center;
+    list-style: none;
+}
+
+.ability li {
+    margin-bottom: .1rem;
+    text-transform: capitalize;
 }
 
 .pagination {
