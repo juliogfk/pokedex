@@ -1,4 +1,4 @@
-#Pokedex
+# Pokedex
 
 ![pokedex-imagem](https://user-images.githubusercontent.com/104468404/204811448-517ce552-d94c-4207-b728-fffcb2c7fa56.jpg)
 # PT-BR
